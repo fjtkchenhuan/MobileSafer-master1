@@ -25,7 +25,7 @@ public class AddressActivity extends Activity {
 	
 	public void queryPhone(View v) {
 		String phoneNum = etPhone.getText().toString();
-		String reslut = AddressDao.getLocation(phoneNum);
-		tvResult.setText(reslut);
+		String result = AddressDao.getLocation(phoneNum);
+		tvResult.setText(result);
 	}
 }
