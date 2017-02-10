@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "com.example.mobilesafer"
+        minSdkVersion 9
+        targetSdkVersion 19
+    }
+
+    compileOptions.encoding = "GBK"
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:19.1.0'
+    compile 'com.android.support:support-v4:19.1.0'
+    compile 'com.android.support:appcompat-v7:19.1.0'
+    compile files('libs/xUtils-2.6.14.jar')
+    androidTestCompile 'com.android.support:support-v4:19.1.0'
+    androidTestCompile 'com.android.support:appcompat-v7:19.1.0'
+    androidTestCompile files('libs/xUtils-2.6.14.jar')
+}

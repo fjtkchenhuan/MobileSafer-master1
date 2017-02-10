@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp" >
+
+	<ImageView 
+	    android:id="@+id/iv_icon"
+	    android:layout_height="45dp"
+	    android:layout_width="45dp"
+	    android:layout_alignParentLeft="true"
+	    android:layout_centerInParent="true"
+	    android:layout_marginLeft="5dp"
+	    android:layout_marginRight="5dp"
+	    />    
+
+	
+	    
+	    <TextView
+	        android:id="@+id/tv_appname"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_toRightOf="@id/iv_icon"
+	        android:singleLine="true"
+	        android:text="xxxxx"
+	        android:textColor="#000"
+	        android:textSize="15sp" />
+
+	    <TextView
+	        android:id="@+id/tv_rx"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:singleLine="true"
+	        android:text="下载流量"
+	        android:textColor="#8000"
+	        android:textSize="10sp"
+	        android:layout_toRightOf="@id/iv_icon"
+	        android:layout_marginTop="10dp"
+	        android:layout_below="@id/tv_appname" 
+	        />
+
+	    <TextView 
+	        android:id="@+id/tv_tx"
+	        android:layout_height="wrap_content"
+	        android:layout_width="wrap_content"
+	        android:text="上传流量"
+	        android:singleLine="true"
+	        android:textColor="#8000"
+	        android:textSize="10sp"
+	        android:layout_alignParentRight="true"
+	        android:layout_marginTop="27dp"
+	        android:layout_marginRight="10dp"
+	        />
+	    
+	
+	
+	
+</RelativeLayout>

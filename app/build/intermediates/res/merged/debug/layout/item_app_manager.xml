@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    >
+	<ImageView 
+	    android:id="@+id/iv_icon"
+	    android:layout_height="45dp"
+	    android:layout_width="45dp"
+	    android:layout_alignParentLeft="true"
+	    android:layout_centerInParent="true"
+	    android:layout_marginLeft="5dp"
+	    android:layout_marginRight="5dp"
+	    />    
+
+	<LinearLayout 
+	    android:layout_height="wrap_content"
+	    android:layout_width="wrap_content"
+	    android:orientation="vertical"
+	    android:layout_toRightOf="@id/iv_icon"
+	    >
+	    
+	    
+	    <TextView 
+	        android:id="@+id/tv_appname"
+	        android:layout_height="wrap_content"
+	        android:layout_width="wrap_content"
+	        android:text="XXXXX"
+	        android:textColor="#000"
+	        android:singleLine="true"
+	        android:textSize="15sp"
+	        />
+	    <TextView 
+	        android:id="@+id/tv_applocation"
+	        android:layout_height="wrap_content"
+	        android:layout_width="wrap_content"
+	        android:text="XXXXX"
+	        android:singleLine="true"
+	        android:textColor="#8000"
+	        android:textSize="10sp"
+	        />
+	    
+	</LinearLayout>
+	
+	<TextView 
+	    android:id="@+id/tv_appsize"
+	    android:layout_height="wrap_content"
+	    android:layout_width="wrap_content"
+	    android:text="12mb"
+	   	android:textSize="12sp"
+	   	android:textColor="#a000"
+	   	android:singleLine="true"
+	   	android:layout_alignParentRight="true"
+	   	android:layout_alignParentTop="true"
+	    />
+	
+</RelativeLayout>

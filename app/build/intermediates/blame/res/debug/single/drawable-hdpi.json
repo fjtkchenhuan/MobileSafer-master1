@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img2.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\img2.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\widget_bg_portrait_child.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_button_unlock_pressed.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\list_button_unlock_pressed.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_button_clean_pressed.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\list_button_clean_pressed.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setup2.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\setup2.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_cab_done_holo_light.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_white.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\call_locate_white.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\unlock.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\unlock.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img3.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\img3.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_selected_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_gray.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\call_locate_gray.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_callmsgsafe.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\home_callmsgsafe.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_scanner_malware.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_scanner_malware.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lock.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\lock.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_delete_btn_focused.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_btn_focused.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setup1.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\setup1.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img1.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\img1.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_holo_light.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_taskmanager.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\home_taskmanager.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setup3.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\setup3.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_normal.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_orange.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\call_locate_orange.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_blue.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\call_locate_blue.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_left_default.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\tab_left_default.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\function_greenbutton_pressed.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\function_greenbutton_pressed.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_pressed.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\button_pressed.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\widget_bg_portrait_child_divider.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child_divider.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\security_progress_bg.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\security_progress_bg.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\security_progress.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\security_progress.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_right_default.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\tab_right_default.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_sysoptimize.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\home_sysoptimize.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_normal.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\button_normal.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_green_normal.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\btn_green_normal.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jiantou1.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\jiantou1.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search_api_holo_light.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_netmanager.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\home_netmanager.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_trojan.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\home_trojan.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\local_popup_bg.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\local_popup_bg.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading_bg_inside.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\loading_bg_inside.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_locate_green.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\call_locate_green.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_apps.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\home_apps.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_icon.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\main_icon.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_safe.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\home_safe.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\listview_divider.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\listview_divider.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_tools.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\home_tools.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_button_lock_default.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\list_button_lock_default.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_delete_btn.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_btn.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\launcher_bg.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\launcher_bg.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\function_greenbutton_normal.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\function_greenbutton_normal.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_check_off.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\previous.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\previous.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_button_clean_default.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\list_button_clean_default.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_button_unlock_default.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\list_button_unlock_default.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_left_pressed.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\tab_left_pressed.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading_bg_inside_mini.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\loading_bg_inside_mini.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_check_on.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_right_pressed.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\tab_right_pressed.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading_bg_outside.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\loading_bg_outside.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\widget_bg_portrait.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\desktop_button_1.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\desktop_button_1.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_settings.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\home_settings.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_green_pressed.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\btn_green_pressed.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_solid_light_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\act_scanning_03.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\act_scanning_03.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\next.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_disabled.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_holo_light.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_icon_36.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\main_icon_36.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_button_lock_pressed.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\list_button_lock_pressed.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_lock_big.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\icon_lock_big.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\header_bg.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\header_bg.png"
+    },
+    {
+        "merged": "D:\\myself\\MobileSafer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading_bg_outside_mini.png",
+        "source": "D:\\myself\\MobileSafer-master1\\app\\src\\main\\res\\drawable-hdpi\\loading_bg_outside_mini.png"
+    }
+]

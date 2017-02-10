@@ -1,0 +1,339 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:2:1-186:12
+	package
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:19.1.0] D:\myself\MobileSafer-master1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:15:22-69
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:16:22-67
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:23:22-75
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:24:5-69
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:24:22-66
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:25:5-72
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:25:22-69
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:26:5-73
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:26:22-70
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:27:5-84
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:27:22-81
+uses-permission#android.permission.READ_SMS
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:28:5-67
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:28:22-64
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:29:5-88
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:29:22-85
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:30:5-67
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:30:22-65
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:31:5-74
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:31:22-72
+uses-permission#android.permission.CLEAR_APP_CACHE
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:32:5-73
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:32:22-71
+instrumentation
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:34:5-37:23
+	android:targetPackage
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:36:9-56
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:35:9-62
+application
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:38:5-184:19
+MERGED from [com.android.support:appcompat-v7:19.1.0] D:\myself\MobileSafer-master1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\AndroidManifest.xml:19:5-20
+	android:label
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:41:9-41
+	android:allowBackup
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:39:9-35
+	android:icon
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:40:9-45
+	android:theme
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:42:9-40
+uses-library#android.test.runner
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:43:9-60
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:43:23-57
+activity#com.example.mobilesafer.activity.SplashActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:46:9-59:20
+	android:label
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:47:13-75
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:52:27-74
+intent-filter#android.intent.category.DEFAULT+com.dwb.mobilesafer
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:54:13-58:29
+action#com.dwb.mobilesafer
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:55:17-62
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:55:25-59
+category#android.intent.category.DEFAULT
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:57:17-76
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:57:27-73
+activity#com.example.mobilesafer.activity.HomeActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:61:9-62:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:61:19-79
+activity#com.example.mobilesafer.activity.SettingActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:64:9-65:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:64:19-82
+activity#com.example.mobilesafer.activity.LostFindActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:67:9-68:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:67:19-83
+activity#com.example.mobilesafer.activity.Setup1Activity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:70:9-71:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:70:19-81
+activity#com.example.mobilesafer.activity.Setup2Activity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:72:9-73:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:72:19-81
+activity#com.example.mobilesafer.activity.Setup3Activity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:75:9-76:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:75:19-81
+activity#com.example.mobilesafer.activity.Setup3Activity1
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:77:9-78:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:77:19-82
+activity#com.example.mobilesafer.activity.Setup4Activity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:79:9-80:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:79:19-81
+activity#com.example.mobilesafer.activity.ContactActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:82:9-83:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:82:19-82
+activity#com.example.mobilesafer.activity.AToolsActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:86:9-87:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:86:19-81
+activity#com.example.mobilesafer.activity.AddressActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:89:9-90:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:89:19-82
+activity#com.example.mobilesafer.activity.DragViewActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:91:9-92:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:91:19-83
+activity#com.example.mobilesafer.activity.CallSafeActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:94:9-95:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:94:19-83
+activity#com.example.mobilesafer.activity.AppManagerActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:97:9-98:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:97:19-85
+activity#com.example.mobilesafer.activity.BackUpSmsActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:99:9-100:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:99:19-84
+activity#com.example.mobilesafer.activity.TaskManagerActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:102:9-103:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:102:19-86
+activity#com.example.mobilesafer.activity.TaskManagerSettingActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:105:9-106:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:105:19-93
+activity#com.example.mobilesafer.activity.AntivirusActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:108:9-109:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:108:19-84
+activity#com.example.mobilesafer.activity.AppLockActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:111:9-112:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:111:19-82
+activity#com.example.mobilesafer.activity.TrafficManagerActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:114:9-115:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:114:19-89
+activity#com.example.mobilesafer.activity.CleanCacheActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:117:9-118:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:117:19-85
+activity#com.example.mobilesafer.activity.EnterPwdActivity
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:120:9-122:20
+	android:launchMode
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:121:13-48
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:120:19-83
+receiver#com.example.mobilesafer.receiver.BootCompleteReceiver
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:126:9-130:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:126:19-87
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:127:13-129:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:128:17-79
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:128:25-76
+receiver#com.example.mobilesafer.receiver.SmsReceiver
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:132:9-136:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:132:19-78
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:133:13-135:29
+	android:priority
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:133:28-57
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:134:17-82
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:134:25-79
+receiver#com.example.mobilesafer.receiver.SimpleDeviceAdminReceive
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:138:9-150:20
+	android:label
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:141:13-60
+	android:permission
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:142:13-70
+	android:description
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:140:13-78
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:139:13-62
+meta-data#android.app.device_admin
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:143:13-145:63
+	android:resource
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:145:17-60
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:144:17-56
+intent-filter#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:147:13-149:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:148:17-82
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:148:25-79
+receiver#com.example.mobilesafer.receiver.MyAppWidget
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:152:9-160:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:152:19-78
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:153:13-155:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:154:17-84
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:154:25-81
+meta-data#android.appwidget.provider
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:157:13-159:66
+	android:resource
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:159:17-63
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:158:17-58
+receiver#com.example.mobilesafer.receiver.KillProcessReceiver
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:163:9-167:20
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:163:19-86
+intent-filter#com.dwb.mobilesafer
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:164:13-166:29
+service#com.example.mobilesafer.service.LocationSerivce
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:169:9-170:19
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:169:18-80
+service#com.example.mobilesafer.service.AddressService
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:171:9-172:19
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:171:18-79
+service#com.example.mobilesafer.service.CallSafeService
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:173:9-174:19
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:173:18-80
+service#com.example.mobilesafer.service.KillProcessService
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:176:9-177:19
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:176:18-83
+service#com.example.mobilesafer.service.KillProcessWidgetService
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:179:9-180:19
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:179:18-89
+service#com.example.mobilesafer.service.WatchDogServiceUpdate
+ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:182:9-183:19
+	android:name
+		ADDED from D:\myself\MobileSafer-master1\app\src\main\AndroidManifest.xml:182:18-86

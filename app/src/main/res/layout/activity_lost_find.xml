@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/TitleStyle"
+        android:text="手机防盗" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            
+            style="@style/ContentStyle"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:paddingBottom="10sp"
+            android:paddingLeft="5dp"
+            android:paddingTop="10sp"
+            android:text="安全号码"
+            android:textColor="#9000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_safephone"
+            style="@style/ContentStyle"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:gravity="center_vertical"
+            android:paddingBottom="10sp"
+            android:paddingLeft="5dp"
+            android:paddingTop="10sp"
+            android:textColor="#000"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_lock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/listview_divider" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            style="@style/ContentStyle"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:paddingBottom="10sp"
+            android:paddingLeft="5dp"
+            android:paddingTop="10sp"
+            android:text="防盗保护是否开启"
+            android:textColor="#9000"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/lock"
+            android:layout_width="20sp"
+            android:layout_height="20sp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="10sp"
+            android:paddingTop="10sp"
+            android:background="@drawable/unlock"
+            />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/listview_divider" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            style="@style/ContentStyle"
+            android:layout_width="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:clickable="true"
+            android:onClick="reSet"
+            android:paddingBottom="10sp"
+            android:paddingLeft="5dp"
+            android:paddingTop="10sp"
+            android:background="@drawable/shape_seletor"
+            android:text="重新进入设置向导"
+            android:textColor="#9000"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:background="#9000"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:text="功能简介" />
+
+    <TextView
+        style="@style/ContentStyle"
+        android:layout_marginLeft="10sp"
+        android:drawableLeft="@android:drawable/star_on"
+        android:text="GPS追踪:#*location*#" />
+
+    <TextView
+        style="@style/ContentStyle"
+        android:layout_marginLeft="10sp"
+        android:drawableLeft="@android:drawable/star_on"
+        android:text="播放报警音乐:#*alarm*#" />
+
+    <TextView
+        style="@style/ContentStyle"
+        android:layout_marginLeft="10sp"
+        android:drawableLeft="@android:drawable/star_on"
+        android:text="远程删除数据:#*wipedata*#" />
+
+    <TextView
+        style="@style/ContentStyle"
+        android:layout_marginLeft="10sp"
+        android:drawableLeft="@android:drawable/star_on"
+        android:text="远程锁屏:#*lockscreen*#" />
+
+</LinearLayout>

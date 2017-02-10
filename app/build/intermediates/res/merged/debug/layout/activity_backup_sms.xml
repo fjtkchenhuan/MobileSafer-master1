@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    
+    <TextView
+        style="@style/TitleStyle"
+        android:text="短信备份" />
+    
+    <Button android:id="@+id/btn_back"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="开始备份"
+        android:onClick="startBackUp"
+        android:layout_centerInParent="true"
+        />
+    <TextView 
+        android:id="@+id/tv_result"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_above="@id/btn_back"
+        android:layout_centerHorizontal="true"
+        android:textSize="15sp"
+        android:text="备份短信，防止数据丢失"
+        
+        />
+    <Button android:id="@+id/btn_recovery"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="恢复短信"
+        android:onClick="startRecovery"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/btn_back"
+        />
+    
+
+</RelativeLayout>

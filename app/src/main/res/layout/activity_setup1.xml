@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+        style="@style/TitleStyle"
+        android:text="1.欢迎使用手机防盗" />
+    
+    <TextView 
+        android:text="您的手机防盗卫士"
+        android:layout_marginTop="5sp"
+        android:layout_marginLeft="5sp"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        />
+    
+    <TextView
+        style="@style/ContentStyle"
+        android:layout_marginLeft="10sp"
+        android:drawableLeft="@android:drawable/star_on"
+        android:text="sim卡变更报警" />
+    
+    <TextView
+        style="@style/ContentStyle"
+        android:layout_marginLeft="10sp"
+        android:drawableLeft="@android:drawable/star_on"
+        android:text="GPS追踪" />
+    
+    <TextView
+        style="@style/ContentStyle"
+        android:layout_marginLeft="10sp"
+        android:drawableLeft="@android:drawable/star_on"
+        android:text="远程数据销毁" />
+    
+    <TextView
+        style="@style/ContentStyle"
+        android:layout_marginLeft="10sp"
+        android:drawableLeft="@android:drawable/star_on"
+        android:text="远程锁屏" />
+
+    <LinearLayout 
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        >
+        <ImageView 
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@android:drawable/presence_online"
+            />
+        <ImageView 
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@android:drawable/presence_invisible"
+            />
+        <ImageView 
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@android:drawable/presence_invisible"
+            />
+        <ImageView 
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@android:drawable/presence_invisible"
+            />
+        
+    </LinearLayout>
+    
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+        <ImageView 
+            android:src="@drawable/setup1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_centerInParent="true"
+            />
+        <Button
+            style="@style/NextButtonStyle"
+            />
+        
+    </RelativeLayout>
+
+</LinearLayout>
