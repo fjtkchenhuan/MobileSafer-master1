@@ -11,7 +11,7 @@ import com.example.mobilesafer.db.dao.AddressDao;
 
 public class AddressActivity extends Activity {
 	private EditText etPhone;
-	private TextView tvReslut;
+	private TextView tvResult;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -19,13 +19,13 @@ public class AddressActivity extends Activity {
 		setContentView(R.layout.activity_addressquery);
 		
 		etPhone = (EditText) findViewById(R.id.et_phone);
-		tvReslut = (TextView) findViewById(R.id.tv_result);
+		tvResult = (TextView) findViewById(R.id.tv_result);
 		
 	}
 	
 	public void queryPhone(View v) {
 		String phoneNum = etPhone.getText().toString();
 		String reslut = AddressDao.getLocation(phoneNum);
-		tvReslut.setText(reslut);
+		tvResult.setText(reslut);
 	}
 }
